@@ -1,4 +1,12 @@
-### Hi there 👋
+
+<div id="badges">
+   <img src="https://img.shields.io/github/commit-activity/y/biter0o1/biter0o1?style=plastic" alt=""/>
+   <br/>
+   <img src="https://img.shields.io/github/repo-size/biter0o1/biter0o1" alt=""/>
+   <br/>
+   <img src="https://img.shields.io/github/languages/top/biter0o1/biter0o1" alt=""/>
+
+</div>
 
 <!--
 **biter0o1/biter0o1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
