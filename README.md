@@ -12,13 +12,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=biter0o1&label=Profile%20views&color=0e75b6&style=plastic" alt="biter0o1" /> </p>
 
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biter0o1&show_icons=true&locale=en&layout=compact" alt="biter0o1" />
+</p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biter0o1&count_private=true&theme=synthwave&show_icons=true)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=biter0o1&show_icons=true&locale=en&layout=compact" alt="biter0o1" />
-
-
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=biter0o1&count_private=true&theme=synthwave&show_icons=true" />
+</p>
 
 
 
